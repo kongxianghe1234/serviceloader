@@ -1,0 +1,3 @@
+# this file list all the class should be invoke
+com.lzy.service.AExtractor
+com.lzy.service.BExtractor
