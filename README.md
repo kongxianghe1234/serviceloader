@@ -1,2 +1,2 @@
 # serviceloader
-this is a example for you to understand java service loader mechanism
+this is an example for you to understand java service loader mechanism
